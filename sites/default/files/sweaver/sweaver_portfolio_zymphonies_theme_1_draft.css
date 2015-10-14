@@ -1,0 +1,30 @@
+.page-wrap .siteheader {
+  background-color: #0a2342;
+  background-image: none;
+  background-position: 50% 50%;
+  padding-top: 1px;
+}
+
+.page-wrap .menu-wrap {
+  background-color: #0a2342;
+}
+
+#edit-actions .form-submit {
+  background-color: #0a2342;
+}
+
+#footer .footer_credit {
+  background-color: #242424;
+  padding-bottom: 0px;
+  border-bottom-width: 0px;
+  margin-bottom: -41px;
+}
+
+.credits a {
+  background-color: #242424;
+}
+
+#copyright .credits {
+  background-color: #242424;
+}
+
