@@ -213,11 +213,11 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
-      'database' => 'portfoliodb',
+      'database' => 'portfolio_drupal',
       'username' => 'micah',
       'password' => 'epicodus13',
       'host' => 'localhost',
